@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Labirintos em Linhas</title>
+    <link>https://example.com/pt-br/page/</link>
+    <description>Recent content in Pages on Labirintos em Linhas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/pt-br/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre o Blog</title>
+      <link>https://example.com/pt-br/page/about-bilberry/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/pt-br/page/about-bilberry/</guid>
+      <description>Bem-vindos ao Labirintos em Linhas!
+Neste espaço tenho explorado o fascinante e complexo mundo da programação, buscando desvendar os labirintos ocultos em cada linha de código. Já parou para pensar que, em cada projeto que nos envolvemos, seja no mundo open-source ou nas empresas em que trabalhamos, encontramos verdadeiros labirintos codificados?
+Para entender essa metáfora, imagine um simples print(&#39;Olá Mundo!&#39;). Por trás dessa instrução aparentemente simples, existem inúmeras operações que ocorrem nos bastidores dos sistemas do computador.</description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://example.com/pt-br/page/github/</link>
+      <pubDate>Mon, 01 Nov 2021 13:17:56 +0100</pubDate>
+      
+      <guid>https://example.com/pt-br/page/github/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

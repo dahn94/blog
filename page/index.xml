@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Mazes of Lines</title>
+    <link>https://example.com/page/</link>
+    <description>Recent content in Pages on Mazes of Lines</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About the Blog</title>
+      <link>https://example.com/page/about-bilberry/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/page/about-bilberry/</guid>
+      <description>Welcome to Mazes in Lines!
+In this space, I have been exploring the fascinating and complex world of programming, attempting to unravel the hidden mazes in each line of code. Have you ever thought that in every project we engage in, whether in the open-source world or in the companies where we work, we encounter true coded mazes?
+To understand this metaphor, imagine a simple print(&#39;Hello World!&#39;). Behind this seemingly simple instruction, there are numerous operations that occur behind the scenes of computer systems.</description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://example.com/page/github/</link>
+      <pubDate>Mon, 01 Nov 2021 13:17:56 +0100</pubDate>
+      
+      <guid>https://example.com/page/github/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
